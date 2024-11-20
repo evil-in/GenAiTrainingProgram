@@ -8,6 +8,7 @@
 4. Requires input of the input file name. Eg: `test.py`
 
 ### Solution: 
+- The following program can take an input of a Python script and add detailed comments to the script. 
 ![alt text](image.png)
 
 ### Dependencies:
